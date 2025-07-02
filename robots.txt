@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jogosfavoritos.github.io/top10/sitemap.xml
